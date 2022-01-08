@@ -27,7 +27,7 @@ figure {
 }
 
 figure > img {
-    max-width: 100%;
+    max-width: 40ch;
     object-fit: contain;
 }
 
